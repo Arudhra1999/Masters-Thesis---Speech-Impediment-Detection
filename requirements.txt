@@ -1,0 +1,8 @@
+numpy == 1.24.3
+pandas == 2.1.4
+sklearn == 1.3.2
+torch == 2.1.1+cu118
+transformers == 4.42.3
+librosa == 0.10.2.post1
+whisper == 20231117
+cuda == 11.8
