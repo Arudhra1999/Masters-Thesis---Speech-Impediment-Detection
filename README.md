@@ -54,6 +54,3 @@ pip install -r requirements.txt
 
 ## References
 Refer to the `References` section in the project report for detailed citations.
-
-## GitLab Repository
-[GitLab Link](https://git.cs.bham.ac.uk/anv352/speech-impediment-detection)
